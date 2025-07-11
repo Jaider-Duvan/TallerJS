@@ -1,0 +1,23 @@
+{
+  "name": "tallerjs",
+  "version": "1.0.0",
+  "description": "Bienvenidos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaider-Duvan/TallerJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaider-Duvan/TallerJS/issues"
+  },
+  "homepage": "https://github.com/Jaider-Duvan/TallerJS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
